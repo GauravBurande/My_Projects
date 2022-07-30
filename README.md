@@ -1,2 +1,2 @@
-# My_Projects
+# Python games
  some fun python projects 
